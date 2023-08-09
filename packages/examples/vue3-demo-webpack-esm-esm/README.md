@@ -1,7 +1,11 @@
 Jeweils
 
-`pnpm i && pnpm build`
+`pnpm i && pnpm build --watch`
 
-dann
+und dann
 
 `pnpm serve`
+
+oder
+
+`pnpm i && pnpm build && pnpm serve`
